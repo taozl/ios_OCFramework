@@ -1,0 +1,26 @@
+PODS:
+  - Masonry (1.1.0)
+  - RDVTabBarController (1.3.0)
+  - SDWebImage (5.9.4):
+    - SDWebImage/Core (= 5.9.4)
+  - SDWebImage/Core (5.9.4)
+
+DEPENDENCIES:
+  - Masonry
+  - RDVTabBarController
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - RDVTabBarController
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  RDVTabBarController: 28a5c6546b9991cf2712d59947324c6b06603e14
+  SDWebImage: b69257f4ab14e9b6a2ef53e910fdf914d8f757c1
+
+PODFILE CHECKSUM: fc1f7abb533e24364c3704101251cfc163df97cf
+
+COCOAPODS: 1.9.3

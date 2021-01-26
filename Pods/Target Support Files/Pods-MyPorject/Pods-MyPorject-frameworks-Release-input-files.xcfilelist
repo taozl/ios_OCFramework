@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MyPorject/Pods-MyPorject-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/RDVTabBarController/RDVTabBarController.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
